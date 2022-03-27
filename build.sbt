@@ -9,3 +9,6 @@ lazy val root = (project in file("."))
 
 // https://mvnrepository.com/artifact/org.apache.spark/spark-sql
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.8" % "provided"
+
+libraryDependencies += "org.scalactic" %% "scalactic" % "3.2.11"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.11" % "test"

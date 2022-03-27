@@ -24,4 +24,8 @@ object AppRunner {
     df.show(numRows = 20, truncate = false)
 
   }
+
+  def plusOne(i :Int): Int = {
+    i + 1
+  }
 }

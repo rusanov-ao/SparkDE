@@ -1,9 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/alexander/IdeaProjects/SparkDE/target/scala-2.11/sparkde_2.11-0.1.0-SNAPSHOT.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Lesson1[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/alexander/IdeaProjects/SparkDE/target/scala-2.11/classes/Lesson1[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Lesson1/AppRunner.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/alexander/IdeaProjects/SparkDE/target/scala-2.11/classes/Lesson1/AppRunner.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Lesson1/AppRunner$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/alexander/IdeaProjects/SparkDE/target/scala-2.11/classes/Lesson1/AppRunner$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
