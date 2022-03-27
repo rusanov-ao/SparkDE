@@ -22,5 +22,6 @@ object AppRunner {
     println(s"Здесь ${df.count} строк")
 
     df.show(numRows = 20, truncate = false)
+
   }
 }
